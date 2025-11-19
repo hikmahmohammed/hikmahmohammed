@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Hikmah 👋
 
-<!--
-**hikmahmohammed/hikmahmohammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at Arizona State University interested in AI/ML, sustainable technology, and building tools that make real-world impact. I've interned at Microsoft and currently work on an agentic AI system for 7-Eleven through the Break Through Tech AI Studio.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+**Languages:** Python, Java, C, C++, C#, HTML/CSS, JavaScript, XAML 
+**AI/ML:** Machine Learning (Scikit-learn, TensorFlow/Keras, PyTorch), Data Analysis (Pandas, NumPy, Jupyter Notebook) 
+**Tools:** Git/GitHub, Agile/Scrum, Razzle  
+**Other:** Microsoft Office Suite, Excel, InDesign, Figma (UI/UX prototyping), Alteryx, Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## 📫 Connect with Me
+- LinkedIn: [linkedin.com/in/hikmahmohammed](https://www.linkedin.com/in/hikmahmohammed)
+- Email: mohammedhikmahh@gmail.com
