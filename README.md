@@ -24,9 +24,8 @@ A retrieval-augmented generation (RAG) system that uses LLMs + vector search to 
 - NSBE Outstanding Member Award
 
 
-- Portfolio: coming soon
-
-
+## Portfolio
+Link: coming soon
 
 
 ## 📫 Connect with Me
